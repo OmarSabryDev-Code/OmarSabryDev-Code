@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Omar Sabry  
 
-<!--
-**OmarSabryDev-Code/OmarSabryDev-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Graduate** from the Arab Academy for Science, Technology, and Maritime Transport  
+💻 **Mobile Developer & Unity Game Programmer**  
+🚀 Passionate about creating interactive apps and games that bring ideas to life  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 About Me  
+- 📱 Built **Tagify**, a mobile app focused on smartcheckout application.    
+- 🎮 Developed **6+ games in Unity Engine**, experimenting with gameplay mechanics and design.  
+- 🌱 Currently focusing on **mobile development**, improving scalability and performance.  
+
+---
+
+## 🔹 Tech Stack  
+- **Languages:** C#, Java, Python  
+- **Mobile Development:** Android Studio, Java, Python  
+- **Game Development:** Unity Engine (C# scripting, 2D/3D mechanics, UI/UX)  
+- **Version Control:** Git & GitHub  
+
+---
+
+## 🔹 Projects  
+### 📱 Tagify (Mobile App)  
+- A productivity mobile app with tagging features.  
+- Built using **Java + Android Studio**.  
+- [🔗 View Repository](#)  
+
+### 🎮 Unity Games (6+ Projects)  
+- Prototypes and complete games built in **Unity Engine**.  
+- Showcases gameplay systems, mechanics, and optimization.  
+- [🔗 View Repositories](#)  
+
+---
+
+## 🔹 Get in Touch  
+- 📌 [LinkedIn](https://www.linkedin.com/in/omar-sabry-80b332277)  
+- ✉️ [Email Me](omar.eid.dev@gmail.com)  
+
+---
+
+⭐️ Feel free to explore my projects and follow my journey in mobile & game development!  
