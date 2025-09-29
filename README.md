@@ -25,7 +25,7 @@
 ### 📱 Tagify (Mobile App)  
 - A productivity mobile app with tagging features.  
 - Built using **Java + Android Studio**.  
-- [🔗 View Repository](#)  
+- [🔗 View Repository](https://github.com/OmarSabryDev-Code/Tagify.git)  
 
 ### 🎮 Unity Games (6+ Projects)  
 - Prototypes and complete games built in **Unity Engine**.  
