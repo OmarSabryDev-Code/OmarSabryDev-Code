@@ -75,4 +75,4 @@
 
 ## 📬 Connect with Me  
 - GitHub: [OmarSabryDev-Code](https://github.com/OmarSabryDev-Code)  
-- LinkedIn: *(add your link here if you want)*  
+- LinkedIn: [Omar Sabry](https://www.linkedin.com/in/omar-sabry-80b332277) 
