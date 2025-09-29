@@ -1,43 +1,78 @@
-# 👋 Hi, I'm Omar Sabry  
+# Hi there, I'm Omar 👋  
 
-🎓 **Computer Science Graduate** from the Arab Academy for Science, Technology, and Maritime Transport  
-💻 **Mobile Developer & Unity Game Programmer**  
-🚀 Passionate about creating interactive apps and games that bring ideas to life  
-
----
-
-## 🔹 About Me  
-- 📱 Built **Tagify**, a mobile app focused on smartcheckout application.    
-- 🎮 Developed **6+ games in Unity Engine**, experimenting with gameplay mechanics and design.  
-- 🌱 Currently focusing on **mobile development**, improving scalability and performance.  
+🎓 **Computer Science Graduate** — Arab Academy for Science, Technology & Maritime Transport  
+💻 **Mobile & Game Developer** — Passionate about Unity (C#), Flutter, and interactive design  
+🎮 I build **games and apps** that are creative, polished, and user-focused  
 
 ---
 
-## 🔹 Tech Stack  
-- **Languages:** C#, Java, Python  
-- **Mobile Development:** Android Studio, Java, Python  
-- **Game Development:** Unity Engine (C# scripting, 2D/3D mechanics, UI/UX)  
-- **Version Control:** Git & GitHub  
+## 🚀 Featured Projects  
+
+### 📱 **Tagify** — Smart Checkout App  
+- Skip queues by scanning product barcodes and paying online  
+- Online ordering for clothes, tech, skincare & more  
+- Built with **Flutter & Dart**, integrated with Gmail login & Visa payments  
+👉 [View Repository](https://github.com/OmarSabryDev-Code/Tagify)
 
 ---
 
-## 🔹 Projects  
-### 📱 Tagify (Mobile App)  
-- A productivity mobile app with tagging features.  
-- Built using **Java + Android Studio**.  
-- [🔗 View Repository](https://github.com/OmarSabryDev-Code/Tagify.git)  
-
-### 🎮 Unity Games (6+ Projects)  
-- Prototypes and complete games built in **Unity Engine**.  
-- Showcases gameplay systems, mechanics, and optimization.  
-- [🔗 View Repositories](#)  
+### 🤠 **Senior Sprint** — Cowboy Endless Runner  
+- Classic jungle endless runner with cowboy vibes  
+- Collect coins & dodge obstacles  
+- My **first Unity game project**  
+👉 [View Repository](https://github.com/OmarSabryDev-Code/Senior-Sprint)
 
 ---
 
-## 🔹 Get in Touch  
-- 📌 [LinkedIn](https://www.linkedin.com/in/omar-sabry-80b332277)  
-- ✉️ [Email Me](omar.eid.dev@gmail.com)  
+### 🛹 **Street Madness** — Urban Skater Endless Runner  
+- Skate through city streets, avoid cars, collect coins  
+- Trail color changes with coins collected  
+- Urban-inspired design with replay value  
+👉 [View Repository](https://github.com/OmarSabryDev-Code/Street-Madness)
 
 ---
 
-⭐️ Feel free to explore my projects and follow my journey in mobile & game development!  
+### 🌃 **Midnight Crisis** — Dark Endless Runner  
+- Night setting with streetlights only  
+- Chased by a masked killer with knife  
+- Speed boosts & slowdowns for tension  
+👉 [View Repository](https://github.com/OmarSabryDev-Code/Midnight-Crisis)
+
+---
+
+### 🎴 **Blackjack Game**  
+- Full blackjack rules & casino mechanics  
+- DoTween animations + custom sprites  
+- Stylish UI with betting & chips system  
+👉 [View Repository](https://github.com/OmarSabryDev-Code/Blackjack)
+
+---
+
+### 🃏⚔️ **SoulDeck** — Strategic Card Battle  
+- Attack, defend, steal mana, play special cards  
+- Adrenaline Rush & Lucky Coin mechanics  
+- AI opponent with mana & health system  
+- My **biggest card-game project** with DoTween polish  
+👉 [View Repository](https://github.com/OmarSabryDev-Code/SoulDeck)
+
+---
+
+### 🎯 **MarkSight** — Military Shooting Challenge  
+- 3D shooting targets in a military site  
+- Track **current, best, and last scores**  
+- Realistic recoil, smoke, muzzle flash & sound effects  
+👉 [View Repository](https://github.com/OmarSabryDev-Code/MarkSight)
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** C#, Dart, JavaScript  
+- **Frameworks:** Unity, Flutter  
+- **Tools:** DoTween, Git, Firebase, REST APIs  
+- **Focus:** Mobile Development & Game Programming  
+
+---
+
+## 📬 Connect with Me  
+- GitHub: [OmarSabryDev-Code](https://github.com/OmarSabryDev-Code)  
+- LinkedIn: *(add your link here if you want)*  
