@@ -40,7 +40,7 @@
 
 ---
 
-### 🎴 **Blackjack Game**  
+### 🃏 **Blackjack Game**  
 - Full blackjack rules & casino mechanics  
 - DoTween animations + custom sprites  
 - Stylish UI with betting & chips system  
