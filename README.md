@@ -48,7 +48,7 @@
 
 ---
 
-### 🃏⚔️ **SoulDeck** — Strategic Card Battle  
+### 🎴⚔️ **SoulDeck** — Strategic Card Battle  
 - Attack, defend, steal mana, play special cards  
 - Adrenaline Rush & Lucky Coin mechanics  
 - AI opponent with mana & health system  
