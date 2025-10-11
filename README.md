@@ -74,5 +74,5 @@
 ---
 
 ## 📬 Connect with Me  
-- GitHub: [OmarSabryDev-Code](https://github.com/OmarSabryDev-Code)  
+- GitHub: [Omar Sabry](omar.eid.dev@gmail.com)  
 - LinkedIn: [Omar Sabry](https://www.linkedin.com/in/omar-sabry-80b332277) 
