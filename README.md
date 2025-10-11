@@ -65,7 +65,7 @@
 
 ---
 
-🃏 Basra — Classic Card Game Reimagined  
+### 🃏 **Basra** — Classic Card Game Reimagined  
 A modern digital recreation of the traditional Basra card game.  
 Smooth card animations powered by **DoTween**, immersive sound effects, and full gameplay logic built in **Unity**.  
 👉 [View Repository](https://github.com/OmarSabryDev-Code/Basra)
