@@ -1,30 +1,30 @@
 # Hi there, I'm Omar 👋
 
 🎓 **Computer Science Graduate** — Arab Academy for Science, Technology & Maritime Transport, GPA: **3.3**  
-💻 **Software Engineer & Full-Stack Developer** — Building responsive web applications with React.js, Next.js, Node.js, and MongoDB  
+💻 **Frontend Developer** — Building responsive, component-based interfaces with React.js and Next.js  
 📱 **Mobile Developer** — Creating user-focused applications with Flutter and Dart  
-🎮 **Game Developer** — Building polished 2D and 3D experiences with Unity and C#  
+🎨 **UI/UX Designer** — Designing interfaces in Figma, from wireframe to shipped product  
 
-I enjoy turning ideas into practical, creative, and user-focused digital products — from full-stack websites and mobile applications to interactive games and IoT systems.
+I focus on building responsive web and mobile products, integrating RESTful APIs for dynamic data, and combining clean development with a strong UI/UX foundation.
 
 ---
 
 ## 💼 Professional Experience
 
-### **Web Developer / Full-Stack Developer**  
-**Independent Project / Freelance** | August 2026 – Present
+### **Frontend Developer — AS IS Store Personal E-commerce Project**  
+**Independent Project** | August 2026 – Present
 
-- Build responsive web experiences using React.js and reusable component architecture  
-- Connect front-end interfaces with backend services and MongoDB  
-- Manage the complete development lifecycle, including UI implementation, debugging, optimization, domains, and deployment  
-- Developed and launched the **As Is Store** business website  
+- Designed and built a complete responsive business website with React.js  
+- Architected the application around reusable components to reduce duplicate code  
+- Connected front-end functionality to backend and MongoDB services for dynamic data  
+- Managed UI implementation, debugging, performance optimization, deployment, and ongoing maintenance  
 
 👉 [Visit As Is Store](https://as-is-store.store)
 
 ---
 
 ### **Software Engineer — React & Web Development**  
-**Global Energy** | November 2025 – February 2026
+**Global Energy** | November 2025 – March 2026
 
 - Developed and maintained responsive React applications  
 - Created reusable components and improved front-end architecture  
@@ -35,7 +35,7 @@ I enjoy turning ideas into practical, creative, and user-focused digital product
 
 ## 🚀 Featured Projects
 
-### 🛍️ **As Is Store** — Full-Stack Business Website
+### 🛍️ **As Is Store** — Personal E-commerce Website
 - Built a complete responsive business website from scratch  
 - Developed reusable React components and scalable front-end architecture  
 - Integrated MongoDB for managing dynamic application data  
@@ -47,10 +47,10 @@ I enjoy turning ideas into practical, creative, and user-focused digital product
 ---
 
 ### 📱 **Tagify** — Smart Checkout Application
-- Scan product barcodes and complete purchases without waiting in queues  
-- Browse and order products across clothing, technology, skincare, and other categories  
-- Integrated dynamic data, authentication, and payment experiences  
-- Built with **Flutter, Dart, REST APIs, and state management**  
+- Designed the application around a Figma-based UI/UX flow  
+- Implemented barcode-based product scanning, cart management, authentication, and checkout functionality  
+- Integrated RESTful APIs for backend communication and dynamic data handling  
+- Built interactive UI flows with Flutter state management  
 
 👉 [View Repository](https://github.com/OmarSabryDev-Code/Tagify)
 
@@ -64,7 +64,7 @@ I enjoy turning ideas into practical, creative, and user-focused digital product
 
 ---
 
-## 🎮 Unity Game Portfolio — 7 Games
+## 🎮 Unity Game Portfolio
 
 ### 🤠 **Senior Sprint** — Cowboy Endless Runner
 - Jungle-themed endless runner featuring a cowboy-style character  
@@ -133,30 +133,29 @@ I enjoy turning ideas into practical, creative, and user-focused digital product
 ## 🛠️ Tech Stack
 
 - **Languages:** C#, Dart, JavaScript, HTML, CSS  
-- **Web Development:** React.js, Next.js, responsive design, reusable components, routing, SSR, SSG, SEO  
-- **Backend & Data:** Node.js, MongoDB, RESTful APIs, database integration  
-- **Mobile Development:** Flutter, Dart, state management, custom widgets, API integration  
+- **Frontend Development:** React.js, Next.js, component-based architecture, routing, responsive design  
+- **API & Data Integration:** RESTful APIs, asynchronous data fetching, Node.js, MongoDB  
+- **Mobile Development:** Flutter, Dart, custom widgets, state management, responsive UI  
 - **Game Development:** Unity, 2D/3D development, Unity physics, animations, AI pathfinding, particle systems, DoTween  
-- **UI/UX:** Figma, Adobe Illustrator, wireframes, mockups, typography, color theory, vector assets  
-- **Cloud & Tools:** AWS fundamentals, EC2, S3, IAM, Git, Firebase, version control, web deployment  
+- **UI/UX Design:** Figma, Adobe Illustrator, wireframes, mockups, typography, layout hierarchy, responsive/adaptive design  
+- **Tools:** Git, version control, web deployment  
 
 ---
 
 ## 📚 Education & Training
 
 - 🎓 **Bachelor's Degree in Computer Science** — Arab Academy for Science, Technology & Maritime Transport | 2020–2025  
+- 🏫 **High School Diploma** — El Zahraa Language School | 2017–2020  
 - 📱 **Flutter Front-End Development Training** — STEM EC | July 2025  
 - 🌐 **Web Development Training** — STEM EC | July 2025  
 - 🤖 **Artificial Intelligence Training** — STEM EC | July 2025  
-- 💻 **ICT Training** — El Hamra Oil Company | August 2024  
-- 🛢️ **Summer Training** — Western Desert Operating Petroleum Co. (WEPCO) | August 2021  
 
 ---
 
 ## 🌍 Languages
 
 - **Arabic:** Native  
-- **English:** Proficient  
+- **English:** B2 — Upper Intermediate  
 
 ---
 
